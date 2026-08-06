@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  <!-- Main Homepage & CNC Wire Bending Landing Page -->
+  <url>
+    <loc>https://chamundaenterprise-five.vercel.app/</loc>
+    <lastmod>2026-08-06</lastmod>
+  </url>
+
+  <!-- Product Catalog Sections -->
+  <url>
+    <loc>https://vercel.app</loc>
+    <lastmod>2026-08-06</lastmod>
+  </url>
+
+  <!-- Job Work & Spec Details Section -->
+  <url>
+    <loc>https://vercel.app</loc>
+    <lastmod>2026-08-06</lastmod>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://vercel.app</loc>
+    <lastmod>2026-08-06</lastmod>
+  </url>
+
+  <!-- Contact & Vatva Works Address Section -->
+  <url>
+    <loc>https://vercel.app</loc>
+    <lastmod>2026-08-06</lastmod>
+  </url>
+</urlset>
